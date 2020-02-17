@@ -1,1 +1,1 @@
-# This is pattern programs in python
+# These are pattern programs in python
